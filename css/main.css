@@ -89,7 +89,7 @@ body {
 .time-total {
   font-size: .7rem;
   position: absolute;
-  right: 0;
+  right: 5px;
   bottom: 10px;
 }
 
@@ -111,7 +111,7 @@ body {
 .control-list {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 5px;
 }
 
 .control-heart {
